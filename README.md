@@ -6,8 +6,6 @@ Together, these specifications form a foundation for building resilient, privacy
 
 ## Internet of Things Specs:
 
-### IoT Projects/Specs from https://roxanneardary.com/internet-of-things/
-
 - **Agility Copilot**  
   [https://roxanneardary.com/agility-copilot/](https://roxanneardary.com/agility-copilot/)  
   A modular, rule-based agility course design system that enables intelligent, space-aware course creation, validation, and optimization across multiple federation standards. It supports customizable designs for various agility applications.
