@@ -29,7 +29,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/appnest/](https://roxanneardary.com/appnest/)  
   A cheerful cross-platform open-source app marketplace where developers publish software and users discover, compare, and download trusted apps in one welcoming hub. It fosters an open ecosystem for app distribution.
 
-- **Aurea**  
+- [**Aurea Module Specification**](https://github.com/openarsenalspecs/IoT/blob/402f0d5fabcc5490b90968aa80f0787036106174/Aurea.md)    
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
   AI-powered IaC security platform scanning Terraform, Kubernetes, Docker, and Ansible for vulnerabilities and misconfigurations. Licensed under AGPLv3.
 
