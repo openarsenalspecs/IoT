@@ -41,7 +41,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/brightbound/](https://roxanneardary.com/brightbound/)  
   An open-source AI creative engine that turns prompts into printable ink coloring pages, themed books, and flipbook-style animations with modular generation and export systems. It emphasizes creative and educational outputs.
 
-- **CIRRUS GRID**  
+- [**CIRRUS GRID Module Specification**](https://github.com/openarsenalspecs/IoT/blob/f4053a424f82d7d1ea3d188c4a058e7f177f6744/CIRRUS%20GRID.md)  
   [https://roxanneardary.com/cirrus-grid/](https://roxanneardary.com/cirrus-grid/)  
   A modular atmospheric intelligence network that enables persistent, self-healing connectivity and distributed compute across ground, airborne swarm, and stratospheric layers. It supports advanced aerial and connectivity applications.
 
