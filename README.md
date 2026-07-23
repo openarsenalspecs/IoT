@@ -65,7 +65,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/docrewrite/](https://roxanneardary.com/docrewrite/)  
   AI tool for searching and rewriting documents/websites according to custom rules with automation and enterprise-ready features. Licensed under AGPLv3.
 
-- **Ecliptic**  
+- [**Ecliptic Module Specification**](https://github.com/openarsenalspecs/IoT/blob/dc8adde06ba05d62d44158bedb31807402f680d3/Ecliptic.md)    
   [https://roxanneardary.com/ecliptic/](https://roxanneardary.com/ecliptic/)  
   A decentralized, encrypted, and self-healing web infrastructure system that distributes hosting across a global peer-to-peer network instead of centralized servers. It enhances web resilience and privacy.
 
