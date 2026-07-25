@@ -149,7 +149,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/nullify/](https://roxanneardary.com/nullify/)  
   Open source centralized data retention and deletion system with secure, policy-driven automation and full auditability. Licensed under AGPLv3.
 
-- **OceanLand Sync System**  
+- [**OceanLand Sync System Module Specification**](https://github.com/openarsenalspecs/IoT/blob/21e291b00ff57d4691ca9ef83bb7725cb298038b/OceanLand%20Sync%20System.md)    
   [https://roxanneardary.com/oceanland-sync-system/](https://roxanneardary.com/oceanland-sync-system/)  
   An open-source AGPL 3.0+ platform that provides stabilized satellite connectivity for amphibious vehicles across land and water using predictive motion control and multi-orbit network switching. It supports hybrid environment operations.
 
