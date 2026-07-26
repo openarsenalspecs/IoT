@@ -229,7 +229,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/taskivo/](https://roxanneardary.com/taskivo/)  
   AI-powered task coordination and service standardization platform that turns real-world requests into structured, comparable, and actionable outcomes. It improves task management.
 
-- **TimeFabric**  
+- [**TimeFabric Module Specification**](https://github.com/openarsenalspecs/IoT/blob/86a43a4170a7d5ee3466c21bfbc9426c289f20f2/TimeFabric.md)    
   [https://roxanneardary.com/timefabric/](https://roxanneardary.com/timefabric/)  
   An open-source, voice-enabled scheduling and time orchestration platform that combines intelligent scheduling, weather-aware planning, and cross-device synchronization into a single modular system. It optimizes personal and group scheduling.
 
