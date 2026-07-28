@@ -217,7 +217,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
   AI platform helping U.S. patients compare dental pricing, verify specials, detect upsells, and find trustworthy care. Licensed under AGPLv3.
 
-- **SolderSense**  
+- [**SolderSense Module Specification**](https://github.com/openarsenalspecs/IoT/blob/246439057b2018de2fd31a00e3d0e43f18d70732/SolderSense.md)    
   [https://roxanneardary.com/soldersense/](https://roxanneardary.com/soldersense/)  
   An open-source, privacy-first programmable mouse that delivers fully auditable, deterministic input control with customizable macros, local-only intelligence, and no telemetry or cloud dependency. It offers privacy-focused hardware input.
 
