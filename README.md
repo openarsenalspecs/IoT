@@ -229,6 +229,10 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/taskivo/](https://roxanneardary.com/taskivo/)  
   AI-powered task coordination and service standardization platform that turns real-world requests into structured, comparable, and actionable outcomes. It improves task management.
 
+- **TerraGuild AI**
+  [https://roxanneardary.com/terraguild-ai/](https://roxanneardary.com/terraguild-ai/)  
+  TerraGuild AI is a modular artificial intelligence specification for designing regenerative food forests, permaculture landscapes, and sustainable ecosystems using generative AI, botanical intelligence, and ecological modeling. It enables intelligent landscape planning through land analysis, plant relationship mapping, seasonal recommendations, natural pest management, and long-term ecosystem simulation to help create abundant, resilient food systems.
+
 - [**TimeFabric Module Specification**](https://github.com/openarsenalspecs/IoT/blob/86a43a4170a7d5ee3466c21bfbc9426c289f20f2/TimeFabric.md)    
   [https://roxanneardary.com/timefabric/](https://roxanneardary.com/timefabric/)  
   An open-source, voice-enabled scheduling and time orchestration platform that combines intelligent scheduling, weather-aware planning, and cross-device synchronization into a single modular system. It optimizes personal and group scheduling.
