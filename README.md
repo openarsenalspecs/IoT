@@ -213,7 +213,7 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/servicelens/](https://roxanneardary.com/servicelens/)  
   An open-source local services platform that helps independent contractors become discoverable through natural-language search while providing secure payments, invoicing, and tax-compliant reporting. It supports service professionals.
 
-- **SignalParcel**  
+- [**SignalParcel Module Specification**](https://github.com/openarsenalspecs/IoT/blob/62dd7bc6021a58b3be121ad5d9753e27767fa1d6/SignalParcel.md)    
   [https://roxanneardary.com/signalparcel/](https://roxanneardary.com/signalparcel/)  
   An open-source system that maps land ownership, operators, and licensing relationships using verified public records. It provides transparent land intelligence.
 
