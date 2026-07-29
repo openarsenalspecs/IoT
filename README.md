@@ -190,7 +190,7 @@ Together, these specifications form a foundation for building resilient, privacy
   An open-source, non-invasive brain–computer interface platform that enables mind-controlled interaction through wearable EEG technology and real-time neural signal processing. It advances accessible BCI technology.
 
 - [**Rally Copilot Module Specification**](https://github.com/openarsenalspecs/IoT/blob/ea5a6a40118bb5e16f6bc72d6764e7ca412ca945/Rally%20Copilot.md)  
-[https://roxanneardary.com/rally-copilot/](https://roxanneardary.com/rally-copilot/
+[https://roxanneardary.com/rally-copilot/](https://roxanneardary.com/rally-copilot/)  
 A modular, rules-based Rally course design and optimization platform that combines federation-aware rule systems, spatial validation, and AI-assisted tools to help design, validate, and refine competition-ready Rally courses.
 
 - **ResponseOS**  
