@@ -177,7 +177,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
   An open-source continuous SOC 2 and SOC 3 compliance infrastructure designed to provide automated evidence collection, transparency dashboards, and machine-readable trust verification through the .well-known/compliance standard. It simplifies compliance.
 
-- **PropIntel**  
+- [**PropIntel Module Specification**](https://github.com/openarsenalspecs/IoT/blob/43c7ef8023580e3a451b7fee75a07004f7fb1e9f/PropIntel.md)    
   [https://roxanneardary.com/propintel/](https://roxanneardary.com/propintel/)  
   An open-source, AI-driven property intelligence platform that tracks ownership, notices of default, liens, foreclosures, and title history across the United States. Licensed under AGPLv3.
 
