@@ -189,6 +189,10 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
   An open-source, non-invasive brain–computer interface platform that enables mind-controlled interaction through wearable EEG technology and real-time neural signal processing. It advances accessible BCI technology.
 
+- [**Rally Copilot Module Specification**](https://github.com/openarsenalspecs/IoT/blob/ea5a6a40118bb5e16f6bc72d6764e7ca412ca945/Rally%20Copilot.md)  
+[https://roxanneardary.com/rally-copilot/](https://roxanneardary.com/rally-copilot/
+A modular, rules-based Rally course design and optimization platform that combines federation-aware rule systems, spatial validation, and AI-assisted tools to help design, validate, and refine competition-ready Rally courses.
+
 - **ResponseOS**  
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
   An open-source platform for reproducible clinical research analysis that uses Bayesian modeling, meta-analysis, and normalized clinical trial data to evaluate treatment effectiveness and placebo-controlled outcomes. It improves research reliability.
