@@ -185,7 +185,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/quantumlingua/](https://roxanneardary.com/quantumlingua/)  
   High-speed AI translation platform supporting text, audio, images, and video with privacy-first design. Licensed under AGPLv3.
 
-- **Quantum Synapse**  
+- [**Quantum Synapse Module Specification**](https://github.com/openarsenalspecs/IoT/blob/735196a8def8ea68b2375604688999a057583385/Quantum%20Synapse.md)    
   [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
   An open-source, non-invasive brain–computer interface platform that enables mind-controlled interaction through wearable EEG technology and real-time neural signal processing. It advances accessible BCI technology.
 
