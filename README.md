@@ -109,6 +109,10 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/industriverse/](https://roxanneardary.com/industriverse/)  
   AI-powered platform mapping, analyzing, and optimizing the U.S. industrial infrastructure from ore deposits to manufacturing. Licensed under AGPLv3.
 
+- [**IntelligenceForge Module Specification**](https://github.com/openarsenalspecs/IoT/blob/0d2c90602c58706206aa86f80f0d1c429b3dd29c/IntelligenceForge.md)  
+[https://roxanneardary.com/intelligenceforge/](https://roxanneardary.com/intelligenceforge/)  
+ModelSignature is an open specification for AI model registry and lifecycle management that provides a permanent record of every model through identity, provenance, versioning, governance, and deployment tracking. It enables transparent, reproducible, and trusted AI operations through a modular, vendor-neutral framework for managing the complete model lifecycle.  
+
 - **KeyframeAI**  
   [https://roxanneardary.com/keyframeai/](https://roxanneardary.com/keyframeai/)  
   An open-source, AI-powered design platform with fully editable layers, real-time collaboration, and end-to-end encrypted user content. It enables collaborative creative work.
