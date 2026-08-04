@@ -101,7 +101,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
   A modular, AGPL-3.0+ open source home security operating system designed to eliminate vendor lock-in through fully replaceable hardware, encrypted edge AI surveillance, and decentralized, privacy-first system architecture. It focuses on user-controlled security.
 
-- **HelixPlan**  
+- [**HelixPlan Module Specification**](https://github.com/openarsenalspecs/IoT/blob/7c77eae81a27642fece1af5ef55a60eaabb0126c/HelixPlan.md)    
   [https://roxanneardary.com/helixplan/](https://roxanneardary.com/helixplan/)  
   An open-source spatial intelligence system that reconstructs accurate architectural floorplans from walkthrough video and minimal dimensional inputs. It simplifies building documentation.
 
