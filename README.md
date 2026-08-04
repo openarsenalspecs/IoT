@@ -133,9 +133,9 @@ ModelSignature is an open specification for AI model registry and lifecycle mana
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
   AI platform for medical/dental image analysis with multi-modal disease detection, predictive modeling, and patient engagement. Licensed under AGPLv3.
 
-- **MetaBridge**  
+- [**MetaBridge Module Specification**](https://github.com/openarsenalspecs/IoT/blob/d0cd44386c11646400fa73c1283bb9264c672095/MetaBridge.md)    
   [https://roxanneardary.com/metabridge/](https://roxanneardary.com/metabridge/)  
-  An open-source, ontology-driven data integration platform that enables secure multi-party data sharing through governed schema evolution, validated ETL pipelines, and strong spec hygiene enforcement. It ensures high-quality data interoperability.
+  An open-source, ontology-driven data integration platform that enables secure multi-party data sharing through governed schema evolution, validated ETL pipelines, and strong spec hygiene enforcement. It ensures high-quality data interoperability.  
 
 - **MetaSpec**  
   [https://roxanneardary.com/metaspec/](https://roxanneardary.com/metaspec/)  
