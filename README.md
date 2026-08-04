@@ -45,9 +45,9 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/cirrus-grid/](https://roxanneardary.com/cirrus-grid/)  
   A modular atmospheric intelligence network that enables persistent, self-healing connectivity and distributed compute across ground, airborne swarm, and stratospheric layers. It supports advanced aerial and connectivity applications.
 
-- **Civic**  
+- [**Civic Module Specification**](https://github.com/openarsenalspecs/IoT/blob/80be3c7f48845eb6bf79d29c9ae253a2dc70912a/Civic.md)    
   [https://roxanneardary.com/civic/](https://roxanneardary.com/civic/)  
-  An AI-powered hyperlocal community platform that connects residents, businesses, and organizations within town-based digital spaces featuring mini blogs, local directories, events, and intelligent community assistance. It strengthens local engagement.
+  An AI-powered hyperlocal community platform that connects residents, businesses, and organizations within town-based digital spaces featuring mini blogs, local directories, events, and intelligent community assistance. It strengthens local engagement.  
 
 - **CommandQuest**  
   [https://roxanneardary.com/commandquest/](https://roxanneardary.com/commandquest/)  
