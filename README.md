@@ -149,9 +149,9 @@ ModelSignature is an open specification for AI model registry and lifecycle mana
 [https://roxanneardary.com/modelsignature/](https://roxanneardary.com/modelsignature/)  
 ModelSignature is a specification for AI model registry and lifecycle management that provides a permanent record of every model through identity, provenance, versioning, governance, and deployment tracking. It enables trusted, transparent, and interoperable AI systems by standardizing how models are created, validated, deployed, monitored, and retired.  
 
-- **NodeHR**  
+- [**NodeHR Module Specification**](https://github.com/openarsenalspecs/IoT/blob/702d366a82ec3758a7e9f7ad1a3d4889bf066989/NodeHR.md)    
   [https://roxanneardary.com/nodehr/](https://roxanneardary.com/nodehr/)  
-  An open-source, self-hosted HR concierge and workflow automation platform that uses AI to turn employee questions and HR processes into secure, policy-aware, and fully auditable workflows. It streamlines human resources.
+  An open-source, self-hosted HR concierge and workflow automation platform that uses AI to turn employee questions and HR processes into secure, policy-aware, and fully auditable workflows. It streamlines human resources.  
 
 - **Nullify**  
   [https://roxanneardary.com/nullify/](https://roxanneardary.com/nullify/)  
