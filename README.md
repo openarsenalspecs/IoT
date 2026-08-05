@@ -261,9 +261,9 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/voxpersona/](https://roxanneardary.com/voxpersona/)  
   A source-bound AI persona platform that delivers verified, citation-backed responses in text, voice, or AI-generated video. It ensures trustworthy AI interactions.
 
-- **WattMind**  
+- [**WattMind Module Specification**](https://github.com/openarsenalspecs/IoT/blob/608a62155c1c757b1da0fb27facf51e9ae394266/WattMind.md)    
   [https://roxanneardary.com/wattmind/](https://roxanneardary.com/wattmind/)  
-  A distributed energy exchange system that coordinates decentralized energy production, storage, and consumption through a real-time, intelligent mesh-based market. It enables smart energy trading.
+  A distributed energy exchange system that coordinates decentralized energy production, storage, and consumption through a real-time, intelligent mesh-based market. It enables smart energy trading.  
 
 - **Xythera**  
   [https://roxanneardary.com/xythera/](https://roxanneardary.com/xythera/)  
