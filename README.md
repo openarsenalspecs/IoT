@@ -121,6 +121,10 @@ ModelSignature is an open specification for AI model registry and lifecycle mana
   [https://roxanneardary.com/lexora/](https://roxanneardary.com/lexora/)  
   An open-source AI-powered repository intelligence platform that helps you understand any codebase before you build. It accelerates development insights.
 
+- [**LibreOrbit Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3705dcf18f03e8a1c41314227825da4e93aab934/LibreOrbit.md)  
+[https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
+An open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and communities through open and interoperable space infrastructure.  
+
 - **LotusGraph**  
   [https://roxanneardary.com/lotusgraph/](https://roxanneardary.com/lotusgraph/)  
   Hybrid AI-ready graph database with Rust core, Python API, real-time streaming, GNN support, and edge/IoT deployment. Licensed under AGPLv3.
