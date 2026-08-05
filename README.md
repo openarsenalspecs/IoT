@@ -123,7 +123,11 @@ ModelSignature is an open specification for AI model registry and lifecycle mana
 
 - [**LibreOrbit Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3705dcf18f03e8a1c41314227825da4e93aab934/LibreOrbit.md)  
 [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
-An open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and communities through open and interoperable space infrastructure.  
+An open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and communities through open and interoperable space infrastructure.
+
+- **License Guardian Network**  
+[https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
+License Guardian Network is a semantic licensing and provenance system that verifies specification attribution, detects reuse through similarity analysis, and generates structured compliance evidence across distributed repositories. It provides a modular framework for connecting usage, provenance, and compliance in AGPL-3.0+ environments with optional support for Specification Branding License (SBL) workflows.
 
 - **LotusGraph**  
   [https://roxanneardary.com/lotusgraph/](https://roxanneardary.com/lotusgraph/)  
