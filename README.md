@@ -73,9 +73,9 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/emailxpose/](https://roxanneardary.com/emailxpose/)  
   An open source AI-powered email security system that detects phishing, spam, scams, malware, and hidden symbolic intent across text, images, and video to provide clear, explainable inbox protection. Licensed under AGPLv3.
 
-- **FailureMap**  
+- [**FailureMap Module Specification**](https://github.com/openarsenalspecs/IoT/blob/59a7650cffb1a66a88ccd87d5d5059b92cb95788/FailureMap.md)    
   [https://roxanneardary.com/failuremap/](https://roxanneardary.com/failuremap/)  
-  An open-source AI venture intelligence platform that analyzes startups through a risk-first, evidence-based system to identify structural weaknesses and potential failure points. It supports better decision-making in investments.
+  An open-source AI venture intelligence platform that analyzes startups through a risk-first, evidence-based system to identify structural weaknesses and potential failure points. It supports better decision-making in investments.  
 
 - **FederAI**  
   [https://roxanneardary.com/federai/](https://roxanneardary.com/federai/)  
