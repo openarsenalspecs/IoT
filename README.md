@@ -241,7 +241,7 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/soldersense/](https://roxanneardary.com/soldersense/)  
   An open-source, privacy-first programmable mouse that delivers fully auditable, deterministic input control with customizable macros, local-only intelligence, and no telemetry or cloud dependency. It offers privacy-focused hardware input.
 
-- **SteadyMission**  
+- [**SteadyMission Module Specification**](https://github.com/openarsenalspecs/IoT/blob/6100810b644f2fc4b2ab040e910d8832e52a8bc4/SteadyMission.md)    
   [https://roxanneardary.com/steadymission/](https://roxanneardary.com/steadymission/)  
   An open-source AI simulation and mission-alignment platform that helps organizations achieve strategic goals without compromising their values, ethics, or long-term direction. It supports ethical organizational planning.
 
