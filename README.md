@@ -97,7 +97,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/forwardstate/](https://roxanneardary.com/forwardstate/)  
   Predictive cryogenic control software enabling stable, autonomous in-space propellant transfer. It supports advanced space operations.
 
-- **GuardianNX**  
+- [**GuardianNX Module Specification**](https://github.com/openarsenalspecs/IoT/blob/f2d4c988c6a7be9d683dfbaba78a9f178bd79244/GuardianNX.md)    
   [https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
   A modular, AGPL-3.0+ open source home security operating system designed to eliminate vendor lock-in through fully replaceable hardware, encrypted edge AI surveillance, and decentralized, privacy-first system architecture. It focuses on user-controlled security.
 
