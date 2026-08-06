@@ -181,7 +181,7 @@ ModelSignature is a specification for AI model registry and lifecycle management
   [https://roxanneardary.com/power-transparency-network/](https://roxanneardary.com/power-transparency-network/)  
   An AGPL 3.0+ open-source intelligence platform that analyzes energy production, market concentration, infrastructure ownership, and household energy dependency to promote transparency against energy monopolies. It fosters energy sector accountability.
 
-- **PredictaFlux**  
+- [**PredictaFlux Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3f33457ca330cd2bf41081957d3090aff70f8fc9/PredictaFlux.md)    
   [https://roxanneardary.com/predictaflux/](https://roxanneardary.com/predictaflux/)  
   A modular AGPL 3.0+ energy intelligence platform that transforms triboelectric micro-energy signals into predictive, optimized, and distributed energy system intelligence. It supports micro-energy applications.
 
