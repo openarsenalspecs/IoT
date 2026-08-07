@@ -85,7 +85,7 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/federnet/](https://roxanneardary.com/federnet/)  
   An open-source, secure, and decentralized networking framework enabling seamless, end-to-end encrypted communication between apps across devices. It supports private interconnectivity.
 
-- **FlexNode**  
+- [**FlexNode Module Specification**](https://github.com/openarsenalspecs/IoT/blob/4e17cf1c6bee7ba9ef9a455caceef93ec310db47/FlexNode.md)    
   [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
   Multi-backend storage virtualization API for edge and IoT devices supporting automation and observability. Licensed under AGPLv3.
 
