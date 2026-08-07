@@ -257,7 +257,7 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/timefabric/](https://roxanneardary.com/timefabric/)  
   An open-source, voice-enabled scheduling and time orchestration platform that combines intelligent scheduling, weather-aware planning, and cross-device synchronization into a single modular system. It optimizes personal and group scheduling.
 
-- **VeritasVote**  
+- [**VeritasVote Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
   [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
   Open-source, tamper-evident in-person voting machine with auditable, verifiable, paper-backed votes. Licensed under AGPLv3.
 
