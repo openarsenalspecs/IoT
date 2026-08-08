@@ -33,6 +33,10 @@ An open source, modular AI-powered weather drone platform designed for autonomou
   [https://roxanneardary.com/appnest/](https://roxanneardary.com/appnest/)  
   A cheerful cross-platform open-source app marketplace where developers publish software and users discover, compare, and download trusted apps in one welcoming hub. It fosters an open ecosystem for app distribution.
 
+- [**AstraForge Module Specification**](https://github.com/openarsenalspecs/IoT/blob/232af676d631a934b1c88721db9d1a7e0cd17d6e/AstraForge.md)  
+[https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)
+An open-source mission control and orchestration platform designed to manage complex systems, workflows, and autonomous operations. 
+
 - [**Aurea Module Specification**](https://github.com/openarsenalspecs/IoT/blob/402f0d5fabcc5490b90968aa80f0787036106174/Aurea.md)    
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
   AI-powered IaC security platform scanning Terraform, Kubernetes, Docker, and Ansible for vulnerabilities and misconfigurations. Licensed under AGPLv3.
