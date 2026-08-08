@@ -21,6 +21,10 @@ Together, these specifications form a foundation for building resilient, privacy
 
 ## Internet of Things Specs:
 
+- [**AeroGrid Specification**](https://github.com/openarsenalspecs/IoT/blob/2377870a21b843e21848a98f8c97155a2ca50009/AeroGrid.md)  
+[https://roxanneardary.com/aerogrid/](https://roxanneardary.com/aerogrid/)  
+An open source, modular AI-powered weather drone platform designed for autonomous atmospheric monitoring, real-time weather data collection, and advanced forecasting through distributed intelligence.
+
 - **Agility Copilot**  
   [https://roxanneardary.com/agility-copilot/](https://roxanneardary.com/agility-copilot/)  
   A modular, rule-based agility course design system that enables intelligent, space-aware course creation, validation, and optimization across multiple federation standards. It supports customizable designs for various agility applications.
