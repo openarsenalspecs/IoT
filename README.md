@@ -33,9 +33,9 @@ Together, these specifications form a foundation for building resilient, privacy
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
   AI-powered IaC security platform scanning Terraform, Kubernetes, Docker, and Ansible for vulnerabilities and misconfigurations. Licensed under AGPLv3.
 
-- **AxonBot**  
+- [**AxonBot Module Specification**](https://github.com/openarsenalspecs/IoT/blob/9a16c7311cf81ffe742eb21c2ea58e5c3cd47370/AxonBot.md)    
   [https://roxanneardary.com/axonbot/](https://roxanneardary.com/axonbot/)  
-  Robotics and IoT platform connecting, automating, and monitoring devices with predictive automation and modular extensibility. Licensed under AGPLv3.
+AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that connects and customizes devices, robots, and automation systems for any industry through a modular core and extensible plugins.  
 
 - **Brightbound**  
   [https://roxanneardary.com/brightbound/](https://roxanneardary.com/brightbound/)  
