@@ -69,7 +69,7 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/datalyra/](https://roxanneardary.com/datalyra/)  
   An open-source, self-hosted, end-to-end encrypted AI data platform that transforms natural language into secure, insightful analytics while keeping all data under user control. It prioritizes privacy and user sovereignty.
 
-- **DocRewrite**  
+- [**DocRewrite Module Specification**](https://github.com/openarsenalspecs/IoT/blob/938091c1e1d186783457743a5c3b5002372afd2a/DocRewrite.md)    
   [https://roxanneardary.com/docrewrite/](https://roxanneardary.com/docrewrite/)  
   AI tool for searching and rewriting documents/websites according to custom rules with automation and enterprise-ready features. Licensed under AGPLv3.
 
