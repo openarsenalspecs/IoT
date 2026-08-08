@@ -177,6 +177,10 @@ ModelSignature is a specification for AI model registry and lifecycle management
   [https://roxanneardary.com/oceanland-sync-system/](https://roxanneardary.com/oceanland-sync-system/)  
   An open-source AGPL 3.0+ platform that provides stabilized satellite connectivity for amphibious vehicles across land and water using predictive motion control and multi-orbit network switching. It supports hybrid environment operations.
 
+- [**OpenHydrology Module Specification**](https://github.com/openarsenalspecs/IoT/blob/09f4999b8573715f0ccfa98bbc80cc392332e238/OpenHydrology.md)  
+[https://roxanneardary.com/openhydrology/](https://roxanneardary.com/openhydrology/)  
+An open-source modular water infrastructure platform designed to provide transparent, repairable, and scalable water purification through selective electro-separation, intelligent automation, and community-driven innovation.
+
 - [**OpenReplica Module Specification**](https://github.com/openarsenalspecs/IoT/blob/417bfbe3096ebbf713073eaa12f083109e999c34/OpenReplica.md)    
   [https://roxanneardary.com/openreplica/](https://roxanneardary.com/openreplica/)  
   An open-source tool that lets users instantly replicate, clean, and export websites into fully portable, self-owned projects without subscription lock-in or proprietary restrictions. It promotes digital ownership.
