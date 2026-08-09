@@ -173,7 +173,7 @@ NextState is an open-source AI platform that tracks state resources, public reve
   [https://roxanneardary.com/nodehr/](https://roxanneardary.com/nodehr/)  
   An open-source, self-hosted HR concierge and workflow automation platform that uses AI to turn employee questions and HR processes into secure, policy-aware, and fully auditable workflows. It streamlines human resources.  
 
-- **Nullify**  
+- [**Nullify Module Specification**](https://github.com/openarsenalspecs/IoT/blob/610beb4cb2dd0d682f227eff308a7fb1e0981426/Nullify.md)    
   [https://roxanneardary.com/nullify/](https://roxanneardary.com/nullify/)  
   Open source centralized data retention and deletion system with secure, policy-driven automation and full auditability. Licensed under AGPLv3.
 
