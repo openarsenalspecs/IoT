@@ -113,7 +113,7 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/helixplan/](https://roxanneardary.com/helixplan/)  
   An open-source spatial intelligence system that reconstructs accurate architectural floorplans from walkthrough video and minimal dimensional inputs. It simplifies building documentation.
 
-- **IndustriVerse**  
+- [**IndustriVerse Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c471355d7596b2c82f0cb6475e2566299147a33b/IndustriVerse.md)    
   [https://roxanneardary.com/industriverse/](https://roxanneardary.com/industriverse/)  
   AI-powered platform mapping, analyzing, and optimizing the U.S. industrial infrastructure from ore deposits to manufacturing. Licensed under AGPLv3.
 
