@@ -163,7 +163,11 @@ License Guardian Network is a semantic licensing and provenance system that veri
 
 - [**ModelSignature Module Specification**](https://github.com/openarsenalspecs/IoT/blob/479e9be2743329b32075c4b46b22faac6f04d570/ModelSignature.md)  
 [https://roxanneardary.com/modelsignature/](https://roxanneardary.com/modelsignature/)  
-ModelSignature is a specification for AI model registry and lifecycle management that provides a permanent record of every model through identity, provenance, versioning, governance, and deployment tracking. It enables trusted, transparent, and interoperable AI systems by standardizing how models are created, validated, deployed, monitored, and retired.  
+ModelSignature is a specification for AI model registry and lifecycle management that provides a permanent record of every model through identity, provenance, versioning, governance, and deployment tracking. It enables trusted, transparent, and interoperable AI systems by standardizing how models are created, validated, deployed, monitored, and retired.
+
+- [**NextState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3a309176151257f42db0567bd1893090b845d043/NextState.md)  
+[https://roxanneardary.com/nextstate/](https://roxanneardary.com/nextstate/)  
+NextState is an open-source AI platform that tracks state resources, public revenues, and potential citizen dividends, giving people transparent tools to understand the value their government creates. It uses AI-powered forecasting, state comparisons, policy simulations, and migration analysis to help citizens make informed financial and family decisions.
 
 - [**NodeHR Module Specification**](https://github.com/openarsenalspecs/IoT/blob/702d366a82ec3758a7e9f7ad1a3d4889bf066989/NodeHR.md)    
   [https://roxanneardary.com/nodehr/](https://roxanneardary.com/nodehr/)  
