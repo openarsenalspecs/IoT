@@ -137,7 +137,7 @@ An open-source, modular satellite networking operating system designed to connec
 [https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
 License Guardian Network is a semantic licensing and provenance system that verifies specification attribution, detects reuse through similarity analysis, and generates structured compliance evidence across distributed repositories. It provides a modular framework for connecting usage, provenance, and compliance in AGPL-3.0+ environments with optional support for Specification Branding License (SBL) workflows.
 
-- **LotusGraph**  
+- [**LotusGraph Module Specification**](https://github.com/openarsenalspecs/IoT/blob/23fb686c0671791c4930f102ffe34b3fa37a15b9/LotusGraph.md)    
   [https://roxanneardary.com/lotusgraph/](https://roxanneardary.com/lotusgraph/)  
   Hybrid AI-ready graph database with Rust core, Python API, real-time streaming, GNN support, and edge/IoT deployment. Licensed under AGPLv3.
 
