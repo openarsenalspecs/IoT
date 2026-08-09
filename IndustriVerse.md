@@ -897,7 +897,7 @@ Sensitive infrastructure information should be appropriately classified and prot
 
 # Development Roadmap
 
-## Phase 1 — Foundation
+## Phase 1 - Foundation
 
 - Establish repository structure
 - Build core platform
@@ -905,7 +905,7 @@ Sensitive infrastructure information should be appropriately classified and prot
 - Integrate foundational resource datasets
 - Build basic interactive map
 
-## Phase 2 — Core Intelligence
+## Phase 2 - Core Intelligence
 
 - Resource Intelligence Module
 - Infrastructure Module
@@ -914,7 +914,7 @@ Sensitive infrastructure information should be appropriately classified and prot
 - Water & Environmental Module
 - Site Selection Module
 
-## Phase 3 — Industrial Planning
+## Phase 3 - Industrial Planning
 
 - Steel & Materials Module
 - Semiconductor Supply Chain Module
@@ -922,7 +922,7 @@ Sensitive infrastructure information should be appropriately classified and prot
 - Workforce Module
 - Economic Module
 
-## Phase 4 — Advanced Intelligence
+## Phase 4 - Advanced Intelligence
 
 - AI & Predictive Intelligence
 - Risk & Resilience
@@ -930,7 +930,7 @@ Sensitive infrastructure information should be appropriately classified and prot
 - Market Intelligence
 - Sustainability
 
-## Phase 5 — Community Infrastructure
+## Phase 5 - Community Infrastructure
 
 - Community contributions
 - Data validation
@@ -939,7 +939,7 @@ Sensitive infrastructure information should be appropriately classified and prot
 - Education tools
 - Provenance systems
 
-## Phase 6 — Optional Ecosystem
+## Phase 6 - Optional Ecosystem
 
 - Plugin architecture
 - Specialized industry plugins
@@ -954,16 +954,16 @@ Sensitive infrastructure information should be appropriately classified and prot
 
 IndustriVerse follows several foundational principles:
 
-1. **Open Source** — The platform should remain available for open-source collaboration and development.
-2. **Modularity** — Components should be independently developed and replaceable.
-3. **Interoperability** — Data should move between systems using open standards wherever practical.
-4. **Transparency** — Data sources, transformations, and analytical assumptions should be visible.
-5. **Provenance** — Important information should be traceable to its source.
-6. **Human-in-the-Loop** — AI should augment rather than obscure human decision-making.
-7. **Local-to-National Intelligence** — The platform should work at county, state, regional, and national scales.
-8. **Resilience** — Industrial systems should be evaluated for redundancy and disruption tolerance.
-9. **Sustainability** — Environmental and resource constraints should be integrated into planning.
-10. **Vendor Independence** — The architecture should minimize unnecessary dependence on proprietary platforms.
+1. **Open Source** - The platform should remain available for open-source collaboration and development.
+2. **Modularity** - Components should be independently developed and replaceable.
+3. **Interoperability** - Data should move between systems using open standards wherever practical.
+4. **Transparency** - Data sources, transformations, and analytical assumptions should be visible.
+5. **Provenance** - Important information should be traceable to its source.
+6. **Human-in-the-Loop** - AI should augment rather than obscure human decision-making.
+7. **Local-to-National Intelligence** - The platform should work at county, state, regional, and national scales.
+8. **Resilience** - Industrial systems should be evaluated for redundancy and disruption tolerance.
+9. **Sustainability** - Environmental and resource constraints should be integrated into planning.
+10. **Vendor Independence** - The architecture should minimize unnecessary dependence on proprietary platforms.
 
 ---
 
