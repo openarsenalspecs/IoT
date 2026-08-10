@@ -213,7 +213,7 @@ An open-source modular water infrastructure platform designed to provide transpa
   [https://roxanneardary.com/propintel/](https://roxanneardary.com/propintel/)  
   An open-source, AI-driven property intelligence platform that tracks ownership, notices of default, liens, foreclosures, and title history across the United States. Licensed under AGPLv3.
 
-- **QuantumLingua**  
+- [**QuantumLingua Module Specification**](https://github.com/openarsenalspecs/IoT/blob/ca8d436706969240676cceef1f6ec7ee5502ff6b/QuantumLingua.md)    
   [https://roxanneardary.com/quantumlingua/](https://roxanneardary.com/quantumlingua/)  
   High-speed AI translation platform supporting text, audio, images, and video with privacy-first design. Licensed under AGPLv3.
 
