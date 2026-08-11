@@ -237,9 +237,9 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/securepath/](https://roxanneardary.com/securepath/)  
   Enterprise-grade AI evaluation and regulatory compliance framework with audit-ready logs and dashboards. Licensed under AGPLv3.
 
-- **SelfRoot**  
+- [**SelfRoot Module Specification**](https://github.com/openarsenalspecs/IoT/blob/919e587bc8d59706dd41622f4ed863fbbf33d6a8/SelfRoot.md)    
   [https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
-  An open-source deterministic identity infrastructure system that enables passwordless authentication by converting live human presence into cryptographic proof without storing biometric data or relying on centralized identity providers. Licensed under AGPLv3.
+  An open-source deterministic identity infrastructure system that enables passwordless authentication by converting live human presence into cryptographic proof without storing biometric data or relying on centralized identity providers. Licensed under AGPLv3.  
 
 - **ServiceLens**  
   [https://roxanneardary.com/servicelens/](https://roxanneardary.com/servicelens/)  
