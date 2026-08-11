@@ -189,7 +189,7 @@ An open-source modular water infrastructure platform designed to provide transpa
   [https://roxanneardary.com/openreplica/](https://roxanneardary.com/openreplica/)  
   An open-source tool that lets users instantly replicate, clean, and export websites into fully portable, self-owned projects without subscription lock-in or proprietary restrictions. It promotes digital ownership.
 
-- **PhaseLock**  
+- [**PhaseLock Module Specifciation**](https://github.com/openarsenalspecs/IoT/blob/ac7856de33e4af168ee84911adf3fa5a26da6439/PhaseLock.md)    
   [https://roxanneardary.com/phaselock/](https://roxanneardary.com/phaselock/)  
   A cryogenic conditioning loop system enabling stable, vapor-free propellant transfer for reusable in-space refueling. It advances space refueling technology.
 
