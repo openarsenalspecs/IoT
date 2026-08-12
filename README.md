@@ -77,7 +77,7 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/ecliptic/](https://roxanneardary.com/ecliptic/)  
   A decentralized, encrypted, and self-healing web infrastructure system that distributes hosting across a global peer-to-peer network instead of centralized servers. It enhances web resilience and privacy.
 
-- **EmailXpose**  
+- [**EmailXpose Module Specification**](https://github.com/openarsenalspecs/IoT/blob/6edd9d203a8cd55de70cafb29859646c6173d746/EmailXpose.md)    
   [https://roxanneardary.com/emailxpose/](https://roxanneardary.com/emailxpose/)  
   An open source AI-powered email security system that detects phishing, spam, scams, malware, and hidden symbolic intent across text, images, and video to provide clear, explainable inbox protection. Licensed under AGPLv3.
 
