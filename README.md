@@ -229,9 +229,9 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
   An open-source platform for reproducible clinical research analysis that uses Bayesian modeling, meta-analysis, and normalized clinical trial data to evaluate treatment effectiveness and placebo-controlled outcomes. It improves research reliability.
 
-- **Rulea**  
+- [**Rulea Module Specification**](https://github.com/openarsenalspecs/IoT/blob/7c07b3e2d11d6eb67304cb1f5b338a93822dc6c2/Rulea.md)    
   [https://roxanneardary.com/rulea/](https://roxanneardary.com/rulea/)  
-  An open-source AI compliance layer that provides real-time Terms of Service guidance, helping users understand conflicts, receive recommendations, and comply without bans or suspensions. It aids platform compliance.
+  An open-source AI compliance layer that provides real-time Terms of Service guidance, helping users understand conflicts, receive recommendations, and comply without bans or suspensions. It aids platform compliance.  
 
 - **SecurePath**  
   [https://roxanneardary.com/securepath/](https://roxanneardary.com/securepath/)  
