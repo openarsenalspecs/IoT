@@ -201,9 +201,9 @@ An open-source modular water infrastructure platform designed to provide transpa
   [https://roxanneardary.com/predictaflux/](https://roxanneardary.com/predictaflux/)  
   A modular AGPL 3.0+ energy intelligence platform that transforms triboelectric micro-energy signals into predictive, optimized, and distributed energy system intelligence. It supports micro-energy applications.
 
-- **ProjectFoundry**  
+- [**ProjectFoundry Module Specification**](https://github.com/openarsenalspecs/IoT/blob/111f204802ec5e5fc9e0305c539073152c9b4d6e/ProjectFoundry.md)    
   [https://roxanneardary.com/projectfoundry/](https://roxanneardary.com/projectfoundry/)  
-  Where AI starts the project by transforming ideas into structured, human-approved open-source repositories with automated documentation, licensing, and collaboration-ready scaffolding. It kickstarts open-source development.
+  Where AI starts the project by transforming ideas into structured, human-approved open-source repositories with automated documentation, licensing, and collaboration-ready scaffolding. It kickstarts open-source development.  
 
 - **ProofLayer**  
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
