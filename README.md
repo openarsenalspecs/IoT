@@ -29,9 +29,9 @@ An open source, modular AI-powered weather drone platform designed for autonomou
   [https://roxanneardary.com/agility-copilot/](https://roxanneardary.com/agility-copilot/)  
   A modular, rule-based agility course design system that enables intelligent, space-aware course creation, validation, and optimization across multiple federation standards. It supports customizable designs for various agility applications.
 
-- **AppNest**  
+- [**AppNest Module Specification**](https://github.com/openarsenalspecs/IoT/blob/ff5cf61d5bddad0c41041bb1326c6860ebf05efe/AppNest.md)    
   [https://roxanneardary.com/appnest/](https://roxanneardary.com/appnest/)  
-  A cheerful cross-platform open-source app marketplace where developers publish software and users discover, compare, and download trusted apps in one welcoming hub. It fosters an open ecosystem for app distribution.
+  A cheerful cross-platform open-source app marketplace where developers publish software and users discover, compare, and download trusted apps in one welcoming hub. It fosters an open ecosystem for app distribution.  
 
 - [**AstraForge Module Specification**](https://github.com/openarsenalspecs/IoT/blob/232af676d631a934b1c88721db9d1a7e0cd17d6e/AstraForge.md)  
 [https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)
