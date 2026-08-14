@@ -121,9 +121,9 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
 [https://roxanneardary.com/intelligenceforge/](https://roxanneardary.com/intelligenceforge/)  
 ModelSignature is an open specification for AI model registry and lifecycle management that provides a permanent record of every model through identity, provenance, versioning, governance, and deployment tracking. It enables transparent, reproducible, and trusted AI operations through a modular, vendor-neutral framework for managing the complete model lifecycle.  
 
-- **KeyframeAI**  
+- [**KeyframeAI Module Specification**](https://github.com/openarsenalspecs/IoT/blob/2d136eaaadb17813ed3a854b0577efb8b9741c49/KeyframeAI.md)    
   [https://roxanneardary.com/keyframeai/](https://roxanneardary.com/keyframeai/)  
-  An open-source, AI-powered design platform with fully editable layers, real-time collaboration, and end-to-end encrypted user content. It enables collaborative creative work.
+  An open-source, AI-powered design platform with fully editable layers, real-time collaboration, and end-to-end encrypted user content. It enables collaborative creative work.  
 
 - [**Lexora Module Specification**](https://github.com/openarsenalspecs/IoT/blob/596946e64112c6a6174b710c3b76d02d50aa40ab/Lexora.md)    
   [https://roxanneardary.com/lexora/](https://roxanneardary.com/lexora/)  
