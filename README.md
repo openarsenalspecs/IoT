@@ -85,9 +85,9 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/failuremap/](https://roxanneardary.com/failuremap/)  
   An open-source AI venture intelligence platform that analyzes startups through a risk-first, evidence-based system to identify structural weaknesses and potential failure points. It supports better decision-making in investments.  
 
-- **FederAI**  
+- [**FederAI Module Specification**](https://github.com/openarsenalspecs/IoT/blob/104aba6186ab9a258d66ff058fa700f03156dbbb/FederAI.md)    
   [https://roxanneardary.com/federai/](https://roxanneardary.com/federai/)  
-  An open-source, ultra-efficient federated AI framework enabling distributed intelligence across everyday devices. It brings AI capabilities to edge and IoT environments.
+  An open-source, ultra-efficient federated AI framework enabling distributed intelligence across everyday devices. It brings AI capabilities to edge and IoT environments.  
 
 - [**FederNet Module Specifcation**](https://github.com/openarsenalspecs/IoT/blob/3beaa2c8873c6f67aac572d472f0c65500328951/FederNet.md)    
   [https://roxanneardary.com/federnet/](https://roxanneardary.com/federnet/)  
