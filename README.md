@@ -205,9 +205,9 @@ An open-source modular water infrastructure platform designed to provide transpa
   [https://roxanneardary.com/projectfoundry/](https://roxanneardary.com/projectfoundry/)  
   Where AI starts the project by transforming ideas into structured, human-approved open-source repositories with automated documentation, licensing, and collaboration-ready scaffolding. It kickstarts open-source development.  
 
-- **ProofLayer**  
+- [**ProofLayer Module Specification**](https://github.com/openarsenalspecs/IoT/blob/92480fdea144863b3d58c95fa8053004416771e9/ProofLayer.md)    
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
-  An open-source continuous SOC 2 and SOC 3 compliance infrastructure designed to provide automated evidence collection, transparency dashboards, and machine-readable trust verification through the .well-known/compliance standard. It simplifies compliance.
+  An open-source continuous SOC 2 and SOC 3 compliance infrastructure designed to provide automated evidence collection, transparency dashboards, and machine-readable trust verification through the .well-known/compliance standard. It simplifies compliance.  
 
 - [**PropIntel Module Specification**](https://github.com/openarsenalspecs/IoT/blob/43c7ef8023580e3a451b7fee75a07004f7fb1e9f/PropIntel.md)    
   [https://roxanneardary.com/propintel/](https://roxanneardary.com/propintel/)  
