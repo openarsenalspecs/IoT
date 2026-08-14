@@ -273,13 +273,13 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/timefabric/](https://roxanneardary.com/timefabric/)  
   An open-source, voice-enabled scheduling and time orchestration platform that combines intelligent scheduling, weather-aware planning, and cross-device synchronization into a single modular system. It optimizes personal and group scheduling.
 
-- [**VeritasVote Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
+- [**VeritasVote Module Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
   [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
   Open-source, tamper-evident in-person voting machine with auditable, verifiable, paper-backed votes. Licensed under AGPLv3.
 
-- **VoteInsight**  
+- [**VoteInsight Module Specification**](https://github.com/openarsenalspecs/IoT/blob/2decfb1834e2479df7048d1ea5b087f8f6964e28/VoteInsight.md)    
   [https://roxanneardary.com/voteinsight/](https://roxanneardary.com/voteinsight/)  
-  An open-source civic platform that helps the public analyze election data, verify results, and understand voting trends through transparent community-driven tools. It promotes election transparency.
+  An open-source civic platform that helps the public analyze election data, verify results, and understand voting trends through transparent community-driven tools. It promotes election transparency.  
 
 - **VoxPersona**  
   [https://roxanneardary.com/voxpersona/](https://roxanneardary.com/voxpersona/)  
