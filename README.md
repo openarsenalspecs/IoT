@@ -241,9 +241,9 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
   An open-source deterministic identity infrastructure system that enables passwordless authentication by converting live human presence into cryptographic proof without storing biometric data or relying on centralized identity providers. Licensed under AGPLv3.  
 
-- **ServiceLens**  
+- [**ServiceLens Module Specification**](https://github.com/openarsenalspecs/IoT/blob/b999af94d398e7d44c3f94bea765296dae5bbdaa/ServiceLens.md)    
   [https://roxanneardary.com/servicelens/](https://roxanneardary.com/servicelens/)  
-  An open-source local services platform that helps independent contractors become discoverable through natural-language search while providing secure payments, invoicing, and tax-compliant reporting. It supports service professionals.
+  An open-source local services platform that helps independent contractors become discoverable through natural-language search while providing secure payments, invoicing, and tax-compliant reporting. It supports service professionals.  
 
 - [**SignalParcel Module Specification**](https://github.com/openarsenalspecs/IoT/blob/62dd7bc6021a58b3be121ad5d9753e27767fa1d6/SignalParcel.md)    
   [https://roxanneardary.com/signalparcel/](https://roxanneardary.com/signalparcel/)  
