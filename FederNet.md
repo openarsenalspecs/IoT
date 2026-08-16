@@ -1,6 +1,8 @@
 # FederNet Specification
+**Collaboration Without Compromise**
+- HTML Mirror:  [https://roxanneardary.com/federnet-specification/](https://roxanneardary.com/federnet-specification/)
 
-**Tagline:** Collaboration Without Compromise
+---
 
 ## Purpose
 
@@ -658,70 +660,6 @@ Provides optional operational monitoring for:
 - Delivery performance
 - Resource utilization
 
-## Interoperability
-
-FederNet implementations should use documented, versioned protocol specifications and standardized data representations wherever practical.
-
-The protocol should support:
-
-- Version negotiation
-- Capability negotiation
-- Transport negotiation
-- Cryptographic algorithm negotiation
-- Backward compatibility
-- Graceful feature degradation
-- Protocol extensions
-- Vendor-independent implementations
-
-Extensions must not compromise the security requirements of the core protocol.
-
-## Security Requirements
-
-FederNet implementations must:
-
-- Protect private keys from unauthorized access.
-- Authenticate peers before granting protected capabilities.
-- Encrypt sensitive communication end to end.
-- Validate message integrity.
-- Prevent replay attacks.
-- Protect against unauthorized session reuse.
-- Support key revocation.
-- Avoid transmitting secrets in plaintext.
-- Avoid exposing plaintext application content to relays.
-- Protect stored credentials and session information.
-- Provide secure failure behavior.
-- Document cryptographic dependencies.
-- Prefer independently reviewed cryptographic libraries.
-
-## Privacy Requirements
-
-FederNet implementations should collect and expose the minimum information necessary for communication.
-
-Implementations should:
-
-- Minimize metadata collection.
-- Avoid unnecessary centralized tracking.
-- Separate identity from network location.
-- Provide configurable privacy controls.
-- Avoid exposing application content to infrastructure operators.
-- Support privacy-preserving discovery where practical.
-- Provide transparent analytics controls.
-
-## Governance
-
-FederNet is designed to support independent implementations and independent network operators.
-
-Governance should emphasize:
-
-- Open technical specifications
-- Transparent protocol changes
-- Community review
-- Security review
-- Interoperability testing
-- Documented extension processes
-- Backward compatibility
-- Independent implementations
-
 ## Testing Requirements
 
 FederNet implementations should provide testing for:
@@ -758,22 +696,7 @@ Network simulation should support testing under:
 - Federation failure
 - Transport failure
 - Offline operation
-
-## Future Compatibility
-
-FederNet should be designed to accommodate future:
-
-- Transport protocols
-- Cryptographic standards
-- Post-quantum algorithms
-- Identity systems
-- Network architectures
-- Application protocols
-- Device platforms
-- Federation models
-
-New capabilities should preferably be implemented as compatible extensions or plugins rather than requiring changes to the fundamental application communication model.  
-
+  
 ---
 
 ## Specification Branding License (SBL)
@@ -809,4 +732,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
