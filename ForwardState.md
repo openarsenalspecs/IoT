@@ -1,6 +1,8 @@
 # ForwardState
-
 **Holding Balance Before It Drifts.**
+- HTML Mirror:  [https://roxanneardary.com/forwardstate-specification/](https://roxanneardary.com/forwardstate-specification/)
+
+---
 
 ForwardState is a modular predictive control and state-estimation platform designed to provide the software intelligence layer for cryogenic propellant conditioning, transfer, and in-space refueling systems.
 
@@ -1273,8 +1275,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-PhaseLock + ForwardState: The foundation for reusable space.
-Predict. Align. Transfer.
