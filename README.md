@@ -101,9 +101,9 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/fluxara/](https://roxanneardary.com/fluxara/)  
   A physics-native intelligence system for modeling, simulating, validating, and optimizing energy and motion systems. It aids in complex physical system design.
 
-- [**ForwardState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/b86cc0b628712b04cbd29a58ad2a29e4fc7f3dd3/ForwardState.md)    
+- [**ForwardState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/4401112a7bdf262df303c40ebb11850c846a7657/ForwardState.md)  
   [https://roxanneardary.com/forwardstate/](https://roxanneardary.com/forwardstate/)  
-  Predictive cryogenic control software enabling stable, autonomous in-space propellant transfer. It supports advanced space operations.
+  Predictive cryogenic control software enabling stable, autonomous in-space propellant transfer. It supports advanced space operations.  
 
 - [**GuardianNX Module Specification**](https://github.com/openarsenalspecs/IoT/blob/f2d4c988c6a7be9d683dfbaba78a9f178bd79244/GuardianNX.md)    
   [https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
