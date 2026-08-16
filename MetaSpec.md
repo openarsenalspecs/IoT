@@ -1,6 +1,8 @@
 # MetaSpec
-
 **Create, Evolve, Multiply.**
+- HTML Mirror:  [https://roxanneardary.com/metaspec-specification/](https://roxanneardary.com/metaspec-specification/)
+
+---
 
 MetaSpec is a locally operated, fully encrypted Specification Kit engine designed to transform a single originating idea into an expanding ecosystem of specifications, applications, platforms, systems, and modular tools.
 
@@ -973,127 +975,6 @@ Every stage can produce new branches that return to the specification engine for
 This creates a continuous cycle of:
 
 **Create → Validate → Expand → Build → Test → Learn → Evolve → Multiply**
-
----
-
-## Human Oversight
-
-MetaSpec is designed to assist rather than replace user decision-making.
-
-Users control:
-
-- Which ideas are accepted
-- Which specifications are authoritative
-- Which modules are enabled
-- Which plugins are installed
-- Which AI capabilities are enabled
-- Which generated outputs are retained
-- Which branches are developed
-- Which changes are approved
-- Which data may be used for local learning
-- Which projects are shared
-- Which outputs are exported
-
-AI-generated content remains subject to human review.
-
----
-
-## Specification Integrity
-
-Every specification kit should maintain:
-
-- Origin
-- Version
-- Dependencies
-- Relationships
-- Requirements
-- Validation status
-- Generation history
-- Modification history
-- Provenance
-- Attribution
-- Export history
-- Approval status
-
-This allows a specification to remain understandable and traceable throughout its lifecycle.
-
----
-
-## Local Data Sovereignty
-
-MetaSpec is designed so that the user retains control over:
-
-- Ideas
-- Specifications
-- Prompts
-- Generated outputs
-- Modules
-- Templates
-- Project history
-- Local AI data
-- Knowledge graphs
-- Archives
-- Backups
-- Configuration
-- Provenance records
-
-No cloud service is required for the core specification workflow.
-
----
-
-## Specification Use
-
-MetaSpec specifications are designed to be reusable with attribution under the project's applicable licensing and attribution requirements.
-
-An optional **Specification Branding License (SBL)** may be available for organizations seeking attribution-free commercial deployment.
-
-SBL terms may be based on:
-
-- Specification
-- Deployment scope
-- Organization size
-- Usage
-- Network size
-- Commercial requirements
-
-See the MetaSpec project page for applicable SBL information.
-
----
-
-## Security Philosophy
-
-MetaSpec follows a local security model based on:
-
-- Data minimization
-- Encryption
-- Local processing
-- Explicit permissions
-- Protected credentials
-- Integrity verification
-- Auditability
-- Provenance
-- User control
-- Secure backups
-- Optional hardware-backed security
-
-Security-sensitive features should fail safely and should not silently weaken workspace protections.
-
----
-
-## Extensibility
-
-MetaSpec is designed to grow without requiring the core engine to grow indefinitely.
-
-New capabilities should generally be implemented as:
-
-- Core modules when they are fundamental to specification creation
-- Optional plugins when they represent specialized functionality
-- Templates when they represent reusable generation patterns
-- Specification packages when they represent reusable domain knowledge
-- AI plugins when they provide optional local intelligence
-- Export plugins when they provide specialized output formats
-
-This keeps the core system focused while allowing the ecosystem to expand continuously.
 
 ---
 
