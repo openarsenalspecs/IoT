@@ -153,7 +153,7 @@ License Guardian Network is a semantic licensing and provenance system that veri
   [https://roxanneardary.com/metabridge/](https://roxanneardary.com/metabridge/)  
   An open-source, ontology-driven data integration platform that enables secure multi-party data sharing through governed schema evolution, validated ETL pipelines, and strong spec hygiene enforcement. It ensures high-quality data interoperability.  
 
-- [**MetaSpec Module Specification**](https://github.com/openarsenalspecs/IoT/blob/5292b14842a5bfbfbc0c7a0983fbefd2eb80348e/MetaSpec.md)    
+- [**MetaSpec Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3492c8d11072cc0d4fccaede5562fb00730c1696/MetaSpec.md)   
   [https://roxanneardary.com/metaspec/](https://roxanneardary.com/metaspec/)  
   A fully local, encrypted, AI-assisted specification engine designed to transform a single idea into an evolving ecosystem of applications, platforms, and modular systems. It supports systematic project development.
 
