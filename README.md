@@ -89,7 +89,7 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/federai/](https://roxanneardary.com/federai/)  
   An open-source, ultra-efficient federated AI framework enabling distributed intelligence across everyday devices. It brings AI capabilities to edge and IoT environments.  
 
-- [**FederNet Module Specifcation**](https://github.com/openarsenalspecs/IoT/blob/081de14fc1cb549ade9b1f88c6c501c3a203971e/FederNet.md)  
+- [**FederNet Module Specifcation**](https://github.com/openarsenalspecs/IoT/blob/4475e9f747b12559d597b059f8d7ae00dd6baaca/FederNet.md)  
   [https://roxanneardary.com/federnet/](https://roxanneardary.com/federnet/)  
   An open-source, secure, and decentralized networking framework enabling seamless, end-to-end encrypted communication between apps across devices. It supports private interconnectivity.  
 
