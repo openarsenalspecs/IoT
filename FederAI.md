@@ -1,10 +1,14 @@
 # FederAI
-
 **From Every Device, A Smarter World.**
+- HTML Mirror:  [https://roxanneardary.com/federai-specification/](https://roxanneardary.com/federai-specification/)
+
+---
 
 FederAI is an open-source, ultra-efficient federated AI framework designed to make advanced artificial intelligence smaller, faster, more private, and accessible across everyday hardware. It combines adaptive low-bit neural architectures, sparse computation, federated learning, distributed inference, model compression, hardware optimization, privacy technologies, and a modular extension system.
 
 FederAI uses a modular architecture. Core modules provide the essential capabilities for efficient AI execution, while optional plugin modules provide specialized functionality without unnecessarily increasing the size or complexity of the core system.
+
+---
 
 ## Vision
 
@@ -491,85 +495,6 @@ Provides specialized evaluation suites for particular domains, model classes, or
 
 Provides optional development interfaces, visualization tools, model inspectors, profilers, and debugging utilities.
 
-## Developer Tools
-
-FederAI is designed to provide developers with tools for understanding and optimizing models.
-
-Planned capabilities include:
-
-- Graph-based model inspection
-- Bitwidth visualization
-- Sparsity visualization
-- Routing analysis
-- Memory profiling
-- Kernel profiling
-- Energy profiling
-- Model comparison
-- Architecture analysis
-- Automated benchmarking
-- Performance regression detection
-
-## Performance Goals
-
-FederAI is designed to pursue substantial reductions in model size, memory usage, computational requirements, and energy consumption.
-
-Optimization targets include:
-
-- Fewer active parameters
-- Lower numerical precision
-- Reduced memory movement
-- Reduced redundant computation
-- Smaller model files
-- Smaller KV caches
-- Reduced network traffic
-- Hardware-aware execution
-- Dynamic computation
-- Efficient distributed scheduling
-
-Performance results must be established through reproducible benchmarks rather than assumed from theoretical compression ratios.
-
-## Installation
-
-FederAI is under active development. Installation and build instructions will be provided as the runtime, model format, and hardware backends mature.
-
-Platform-specific documentation will cover supported CPU, GPU, NPU, WebAssembly, and WebGPU environments.
-
-## Development
-
-Development follows a modular workflow focused on:
-
-- Small, testable components
-- Reproducible benchmarks
-- Hardware-aware optimization
-- Documented interfaces
-- Security review for distributed functionality
-- Privacy review for federated functionality
-- Regression testing
-- Transparent performance measurements
-
-## Contributing
-
-FederAI is an open-source community project.
-
-Contributions are welcome in:
-
-- Neural architecture research
-- Low-bit computation
-- Sparse computation
-- Model compression
-- Hardware optimization
-- Distributed systems
-- Federated learning
-- Privacy
-- Security
-- Networking
-- Benchmarking
-- Documentation
-- Testing
-- Developer tooling
-
-Please review `CONTRIBUTING.md` and `workflow.md` before contributing.
-
 ---
 
 **FederAI — From Every Device, A Smarter World.**
@@ -603,10 +528,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- FederAI specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- FederAI specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
