@@ -141,9 +141,9 @@ License Guardian Network is a semantic licensing and provenance system that veri
   [https://roxanneardary.com/lotusgraph/](https://roxanneardary.com/lotusgraph/)  
   Hybrid AI-ready graph database with Rust core, Python API, real-time streaming, GNN support, and edge/IoT deployment. Licensed under AGPLv3.
 
-- [**MarketLight Module Specification**](https://github.com/openarsenalspecs/IoT/blob/f9b51194728419997b898da312d580bce3a86670/MarketLight.md)    
+- [**MarketLight Module Specification**](https://github.com/openarsenalspecs/IoT/blob/68b53c1278b7907c35d3c80d50ad84f638b0ab47/MarketLight.md)  
   [https://roxanneardary.com/marketlight/](https://roxanneardary.com/marketlight/)  
-  An open-source, transparent global marketplace where innovation is protected, verified, and ultimately shared under AGPL-3.0+ for the benefit of everyone. It promotes open innovation sharing.
+  An open-source, transparent global marketplace where innovation is protected, verified, and ultimately shared under AGPL-3.0+ for the benefit of everyone. It promotes open innovation sharing.  
 
 - **MediNetAI**  
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
