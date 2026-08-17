@@ -1,6 +1,8 @@
 # MarketLight Specification
-
 **See the Innovation Clearly.**
+- HTML Mirror:  [https://roxanneardary.com/marketlight-specification/](https://roxanneardary.com/marketlight-specification/)
+
+---
 
 ## Specification Overview
 
@@ -25,6 +27,8 @@ The software is licensed under the **GNU Affero General Public License v3.0 or l
 - Global commerce must support multiple currencies and jurisdictions.
 - Marketplace governance must be auditable and understandable.
 - The platform must avoid unnecessary vendor lock-in.
+
+---
 
 ## Core Modules
 
@@ -902,7 +906,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- MarketLight specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- MarketLight specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
