@@ -1,7 +1,8 @@
 # KeyframeAI Specification
-
-**KeyframeAI**  
 **Where Every Frame is a Launchpad**
+- HTML Mirror:  [https://roxanneardary.com/keyframeai-specification/](https://roxanneardary.com/keyframeai-specification/)
+
+---
 
 ## Purpose
 
@@ -30,6 +31,8 @@ KeyframeAI shall be designed around the following principles:
 - Secure collaboration
 - Community extensibility
 - No unnecessary vendor lock-in
+
+---
 
 ## Core Modules
 
@@ -570,18 +573,6 @@ Plugins may provide:
 - Alternative input systems
 - Advanced document accessibility validation
 
-### Community Marketplace Plugins
-
-Plugins may provide:
-
-- Creator marketplaces
-- Template marketplaces
-- Asset marketplaces
-- Plugin marketplaces
-- Creator licensing systems
-- Revenue-sharing systems
-- Optional commercial services
-
 ## Local and Offline Operation
 
 KeyframeAI shall support local-first operation where practical.
@@ -639,27 +630,6 @@ KeyframeAI shall support global users through:
 - International typography
 - Regional export requirements
 
-## Security Requirements
-
-Security shall be treated as a foundational system requirement.
-
-KeyframeAI shall incorporate:
-
-- Secure encryption
-- Secure key management
-- Least-privilege access
-- Permission boundaries
-- Plugin isolation
-- Input validation
-- Dependency security
-- Secure update mechanisms
-- Auditability
-- Security testing
-- Privacy-preserving defaults
-- Secure deletion mechanisms where technically possible
-
-Plugins shall not automatically receive unrestricted access to user content, projects, credentials, or encryption keys.
-
 ## AI Governance
 
 KeyframeAI shall maintain human control over AI-assisted workflows.
@@ -696,58 +666,6 @@ Marketplace functionality shall remain modular and shall not be required for the
 
 Creators shall be able to define licensing, attribution, pricing, and distribution terms for their contributions.
 
-## Sustainability and Deployment
-
-KeyframeAI shall support multiple deployment models, including:
-
-- Personal installations
-- Self-hosted installations
-- Private organizational deployments
-- Community-hosted instances
-- Managed services built from the open-source project
-
-Deployments shall preserve the licensing and attribution requirements of the project.
-
-## Data Ownership
-
-Users shall retain ownership of their creative content.
-
-KeyframeAI shall not require users to surrender ownership of:
-
-- Designs
-- Projects
-- Images
-- Videos
-- Animations
-- Presentations
-- Documents
-- Templates
-- Prompts
-- Generated assets
-- Brand systems
-
-The platform shall provide mechanisms for users to export their projects and data.
-
-## Project Lifecycle
-
-A standard KeyframeAI workflow shall support:
-
-- Project creation
-- Secure project initialization
-- Canvas composition
-- AI-assisted creation
-- Manual editing
-- Asset management
-- Collaboration
-- Review
-- Versioning
-- Accessibility validation
-- Export
-- Backup
-- Publishing
-- Archiving
-- Secure deletion
-
 ---
 
 ## Specification Branding License (SBL)
@@ -777,10 +695,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- KeyframeAI specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- KeyframeAI specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
