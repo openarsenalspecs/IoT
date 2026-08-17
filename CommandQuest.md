@@ -1,6 +1,8 @@
 # CommandQuest
-
 **Achieve Mastery, One Command at a Time**
+- HTML Mirror:  [https://roxanneardary.com/commandquest-specification/](https://roxanneardary.com/commandquest-specification/)  
+
+---
 
 ## Specification
 
@@ -27,6 +29,8 @@ CommandQuest shall follow these principles:
 - Accessible terminal interaction
 - Minimal vendor lock-in
 - Backward-compatible interfaces where practical
+
+---
 
 ## Core Modules
 
@@ -702,66 +706,7 @@ Workflow functionality should support:
 - Logging
 - Results
 - Snapshots
-- Restoration
-
-## Learning and Mastery
-
-CommandQuest shall support its core philosophy of **Achieve Mastery, One Command at a Time** through optional educational functionality.
-
-Learning features may include:
-
-- Command explanations
-- Interactive tutorials
-- Guided workflows
-- Challenges
-- Progress tracking
-- Achievements
-- Recommendations
-- Command discovery
-- Skill progression
-
-## Accessibility
-
-CommandQuest shall strive to support users with different accessibility needs.
-
-Accessibility considerations include:
-
-- Screen-reader-friendly output
-- Avoidance of color-only status indicators
-- Configurable colors
-- Configurable symbols
-- Clear error messages
-- Keyboard-oriented interaction
-- High-contrast themes
-- Localization support
-
-## Interoperability
-
-CommandQuest should integrate with existing command-line ecosystems rather than replace them unnecessarily.
-
-The system should support:
-
-- External command execution
-- Standard input and output
-- Pipelines
-- Environment variables
-- Script integration
-- Structured output
-- Existing shell environments
-
-## Governance
-
-CommandQuest development shall prioritize:
-
-- Transparent development
-- Modular architecture
-- Documented interfaces
-- Security
-- Privacy
-- Backward compatibility where practical
-- Contributor recognition
-- Clear licensing
-- User control
+- Restoration  
 
  ---
 
@@ -792,10 +737,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- CommandQuest specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- CommandQuest specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.
 - When submitting a pull request, ensure that any new files maintain the required attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
