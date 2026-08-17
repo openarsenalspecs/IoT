@@ -57,7 +57,7 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/civic/](https://roxanneardary.com/civic/)  
   An AI-powered hyperlocal community platform that connects residents, businesses, and organizations within town-based digital spaces featuring mini blogs, local directories, events, and intelligent community assistance. It strengthens local engagement.  
 
-- [**CommandQuest Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c0fd4b3e2510cf008e29dbe51c0b2db244b745c1/CommandQuest.md)    
+- [**CommandQuest Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3e290c21928658688558e40b89935d0fab0e57e6/CommandQuest.md)  
   [https://roxanneardary.com/commandquest/](https://roxanneardary.com/commandquest/)  
   An open-source, fully extensible CLI that combines automation, AI-assisted workflows, and gamification to help users master their terminal experience. It makes command-line work more engaging and productive.
 
