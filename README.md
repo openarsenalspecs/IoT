@@ -157,7 +157,7 @@ License Guardian Network is a semantic licensing and provenance system that veri
   [https://roxanneardary.com/metaspec/](https://roxanneardary.com/metaspec/)  
   A fully local, encrypted, AI-assisted specification engine designed to transform a single idea into an evolving ecosystem of applications, platforms, and modular systems. It supports systematic project development.
 
-- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c6521de0b0d62119e0843ff0a2b31f84ac0d394a/MindCache.md)    
+- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/286bfb7b518297d415875279b4c29d5885bf9b84/MindCache.md)  
   [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   An open-source persistent multi-agent memory platform designed for long-term state management, snippet retrieval, versioned memory, and collaborative AI intelligence. It enhances AI memory capabilities.  
 
