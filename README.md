@@ -277,7 +277,7 @@ A modular, rules-based Rally course design and optimization platform that combin
   [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
   Open-source, tamper-evident in-person voting machine with auditable, verifiable, paper-backed votes. Licensed under AGPLv3.
 
-- [**VoteInsight Module Specification**](https://github.com/openarsenalspecs/IoT/blob/2decfb1834e2479df7048d1ea5b087f8f6964e28/VoteInsight.md)    
+- [**VoteInsight Module Specification**](https://github.com/openarsenalspecs/IoT/blob/d3ea0a78232687cdf091372d91aacbbc2fcfb5ed/VoteInsight.md)  
   [https://roxanneardary.com/voteinsight/](https://roxanneardary.com/voteinsight/)  
   An open-source civic platform that helps the public analyze election data, verify results, and understand voting trends through transparent community-driven tools. It promotes election transparency.  
 
