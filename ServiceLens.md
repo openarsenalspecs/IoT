@@ -1,6 +1,8 @@
 # ServiceLens
-
 **Every service, in one view.**
+- HTML Mirror:  [https://roxanneardary.com/servicelens-specification/](https://roxanneardary.com/servicelens-specification/)
+
+---
 
 ServiceLens is an open-source local services platform that enables independent contractors, service providers, and small businesses to create a single provider profile and become discoverable across relevant searches. The platform combines a structured service directory, natural-language search, secure transactions, invoicing, receipts, tax reporting, trust tools, and data portability into a modular system that can be self-hosted and extended.
 
@@ -29,6 +31,8 @@ The platform prioritizes transparency, accessibility, privacy, portability, secu
 - Extensible through optional plugins
 - No mandatory vendor lock-in
 - Community and organization deployment support
+
+---
 
 # Core Modules
 
@@ -493,99 +497,6 @@ The plugin may assist with:
 
 Provider approval must be required before generated content is published.
 
-## Voice Search Plugin
-
-The Voice Search Plugin enables users to search for services using spoken requests.
-
-Voice data handling must prioritize privacy and user consent.
-
-## Advanced Map Plugin
-
-The Advanced Map Plugin provides expanded geographic browsing.
-
-Features may include:
-
-- Interactive provider maps
-- Service area visualization
-- Location-based browsing
-- Map clustering
-- Travel distance estimates
-
-## Community Board Plugin
-
-The Community Board Plugin provides local spaces for announcements and service-related discussions.
-
-Deployments should be able to configure moderation rules and participation requirements.
-
-## Integration Plugin Framework
-
-The Integration Plugin Framework allows optional connections to external services.
-
-Possible integrations may include:
-
-- Accounting software
-- Calendar services
-- Customer relationship management systems
-- Communication tools
-- Business management platforms
-
-Integrations must be optional and replaceable.
-
-## Advanced Payment Plugin
-
-The Advanced Payment Plugin provides additional transaction workflows.
-
-Features may include:
-
-- Escrow integrations
-- Milestone payment management
-- Additional payment processors
-- Regional payment methods
-- Cooperative payment systems
-
-## Advanced Reporting Plugin
-
-The Advanced Reporting Plugin provides expanded business analytics and reporting.
-
-Features may include:
-
-- Revenue trends
-- Service demand trends
-- Geographic demand analysis
-- Provider business analytics
-- Custom report generation
-
-Analytics should remain transparent and provider-accessible.
-
-## Community Governance Plugin
-
-The Community Governance Plugin allows deployments to implement community participation systems.
-
-Features may include:
-
-- Feature proposals
-- Community voting
-- Moderation governance
-- Policy proposals
-- Deployment-specific governance rules
-
-Governance features must remain optional and configurable.
-
-## Plugin Architecture Requirements
-
-ServiceLens must support optional modules without requiring all deployments to install or enable them.
-
-Plugins should:
-
-- Use documented interfaces
-- Avoid unnecessary changes to core functionality
-- Declare dependencies
-- Respect privacy and security controls
-- Be independently installable and removable where practical
-- Avoid creating mandatory vendor dependencies
-
-Core functionality must remain usable without optional plugins.
-
 ---
 
 ## Specification Branding License (SBL)
@@ -615,7 +526,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- ServiceLens specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- ServiceLens specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
