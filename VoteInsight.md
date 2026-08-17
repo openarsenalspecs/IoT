@@ -1,6 +1,8 @@
 # VoteInsight
-
 **Analyze. Verify. Understand.**
+- HTML Mirror: [https://roxanneardary.com/voteinsight-specifications/](https://roxanneardary.com/voteinsight-specifications/)
+
+---
 
 VoteInsight is an open-source civic transparency toolkit that empowers voters, journalists, independent observers, researchers, and community organizations to analyze election data, verify published information, identify statistical anomalies, securely document issues, and build transparent community-driven dashboards.
 
@@ -22,6 +24,8 @@ The project is built around the following principles:
 - Open-source development and auditable algorithms
 
 VoteInsight does not automatically determine election legitimacy or make automated accusations of fraud. Statistical anomalies, discrepancies, and community reports are signals for review and investigation, not conclusions by themselves.
+
+---
 
 ## Core Modules
 
@@ -315,6 +319,8 @@ Capabilities include:
 
 Where possible, VoteInsight should use open and documented standards.
 
+---
+
 ## Optional Plugin Modules
 
 Optional plugins extend VoteInsight without requiring every deployment to enable all functionality.
@@ -479,21 +485,7 @@ VoteInsight may use AI and automated systems to assist with:
 
 AI systems must not independently make final public determinations about fraud, misconduct, election legitimacy, or criminal activity.
 
-Human review must remain available for significant findings and escalated reports.
-
-## Security Principles
-
-VoteInsight must prioritize:
-
-- Encryption of sensitive information
-- Secure handling of submitted evidence
-- Protection against unauthorized access
-- Tamper-evident records where appropriate
-- Independent security review
-- Transparent vulnerability remediation
-- Minimal collection of personal information
-
-Security architecture should support self-hosted deployments and avoid unnecessary dependence on centralized infrastructure.
+Human review must remain available for significant findings and escalated reports.  
 
 ## Data and Evidence Principles
 
@@ -511,57 +503,6 @@ VoteInsight must maintain clear distinctions between:
 - Disputed or unresolved information
 
 The system must preserve provenance wherever possible.
-
-## Ethical Use
-
-VoteInsight is intended to support informed public analysis and transparent civic oversight.
-
-The platform must not:
-
-- Present statistical anomalies as automatic proof of fraud
-- Automatically identify individuals as responsible for misconduct
-- Expose sensitive personal information without appropriate safeguards
-- Misrepresent unverified community reports as established facts
-- Conceal methodology behind opaque automated decisions
-
-Deployments should provide clear explanations of how data, analysis, review, and public reporting are handled.
-
-## Accessibility
-
-VoteInsight should be designed for broad public accessibility.
-
-Priorities include:
-
-- Clear and understandable language
-- Accessible interfaces
-- Support for assistive technologies
-- Responsive design
-- Low-bandwidth operation where possible
-- Exportable data and reports
-- Localization support
-
-## Project Status
-
-VoteInsight is in the specification and early development stage.
-
-Initial development priorities include:
-
-- Election data ingestion
-- Data normalization
-- Dataset verification
-- Historical dataset tracking
-- Transparent statistical analysis
-- Human review workflows
-- Privacy-preserving evidence reporting
-- Community dashboard foundations
-
-## Vision
-
-VoteInsight envisions a civic technology ecosystem where people can independently access, analyze, verify, and better understand election information.
-
-The project aims to provide open-source infrastructure that strengthens transparency through reproducible analysis, evidence-based review, privacy protection, and community participation.
-
-**Analyze. Verify. Understand.**
 
 ---
 
@@ -592,7 +533,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- VoteInsight specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- VoteInsight specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
