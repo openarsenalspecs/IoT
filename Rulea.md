@@ -1,13 +1,14 @@
 # Rulea 
 *Understand. Act. Comply.*
+- HTML Mirror:  [https://roxanneardary.com/rulea-specification/](https://roxanneardary.com/rulea-specification/)
+
+---
 
 ## Project Description
 
 Rulea is an open-source AI compliance layer that can be integrated into any website, application, or platform to provide real-time Terms of Service guidance to users. Rather than relying on bans, suspensions, or unexplained moderation actions, Rulea empowers users with immediate explanations, recommendations, and educational guidance before a violation occurs.
 
 Rulea acts as a universal compliance intermediary between users and platform policies, helping platforms reduce moderation friction while creating a more transparent and user-friendly experience.
-
-Released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)** with attribution requirements under Section 7.
 
 ---
 
@@ -499,10 +500,6 @@ Submodules:
 
 ---
 
-**Rulea**  
-**Understand. Act. Comply.**
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -530,10 +527,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Rulea specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- Rulea specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
