@@ -1,7 +1,8 @@
 # DataLyra
-Modular System Specification
-
 **Clarity in Every Byte.**
+- HTML Mirror:  [https://roxanneardary.com/datalyra-specification/](https://roxanneardary.com/datalyra-specification/)
+
+---
 
 DataLyra is an open-source, self-hosted, end-to-end encrypted AI data platform built as a modular system of independent but interoperable components. Each module is responsible for a specific layer of functionality, enabling scalability, extensibility, and secure customization while maintaining strict privacy and local execution guarantees.
 
@@ -254,4 +255,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
