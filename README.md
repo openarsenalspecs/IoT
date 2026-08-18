@@ -65,7 +65,7 @@ AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that 
   [https://roxanneardary.com/commonshome/](https://roxanneardary.com/commonshome/)  
   An open-source AI-powered platform for home staging, spatial intelligence, and real estate marketing optimization that helps transform property photos into market-ready listings through modular analytics, virtual staging, and performance-driven insights. It aids real estate professionals.
 
-- [**DataLyra Module Specification**](https://github.com/openarsenalspecs/IoT/blob/a2be7dc99b39cd511d0b401530ca4eeb29b61fe8/DataLyra.md)    
+- [**DataLyra Module Specification**](https://github.com/openarsenalspecs/IoT/blob/a4f25373a9d7057734c230a409e6bf123af67b53/DataLyra.md)  
   [https://roxanneardary.com/datalyra/](https://roxanneardary.com/datalyra/)  
   An open-source, self-hosted, end-to-end encrypted AI data platform that transforms natural language into secure, insightful analytics while keeping all data under user control. It prioritizes privacy and user sovereignty.  
 
