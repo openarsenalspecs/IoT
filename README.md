@@ -265,9 +265,9 @@ Sovereign is an AI specification for transforming dependency-based systems into 
   [https://roxanneardary.com/steadymission/](https://roxanneardary.com/steadymission/)  
   An open-source AI simulation and mission-alignment platform that helps organizations achieve strategic goals without compromising their values, ethics, or long-term direction. It supports ethical organizational planning.
 
-- **Taskivo**  
+- [**Taskivo Module Specification**](https://github.com/openarsenalspecs/IoT/blob/f7da9fa7db8216f42bdd46d3eda6aee4ea188a97/Taskivo.md)    
   [https://roxanneardary.com/taskivo/](https://roxanneardary.com/taskivo/)  
-  AI-powered task coordination and service standardization platform that turns real-world requests into structured, comparable, and actionable outcomes. It improves task management.
+Taskivo is an open source AI co-pilot that transforms everyday requests into structured tasks, service scopes, guided conversations, and comparable quotes. Its modular architecture enables the AI to identify commonly purchased goods and services, communicate with providers, gather pricing, and help users achieve better outcomes while remaining in control.
 
 - [**TerraGuild AI Module Specification**](https://github.com/openarsenalspecs/IoT/blob/490a2c1e1c607a3f961000edfb53abbd7d5d2641/TerraGuild%20AI.md)  
   [https://roxanneardary.com/terraguild-ai/](https://roxanneardary.com/terraguild-ai/)  
