@@ -145,9 +145,9 @@ License Guardian Network is a semantic licensing and provenance system that veri
   [https://roxanneardary.com/marketlight/](https://roxanneardary.com/marketlight/)  
   An open-source, transparent global marketplace where innovation is protected, verified, and ultimately shared under AGPL-3.0+ for the benefit of everyone. It promotes open innovation sharing.
 
-- **MedFair**  
+- [**MedFair Module Specification**](https://github.com/openarsenalspecs/IoT/blob/24d6e69d8a6eca70674ea519c4bc5654d6b0b190/MedFair.md)    
 [https://roxanneardary.com/medfair/](https://roxanneardary.com/medfair/)  
-MedFair is an AI-powered specification designed to identify, verify, and reduce medical financial obligations by searching insurance, billing, legal, financial assistance, charity care, government, and other available avenues. It then evaluates the remaining obligation to identify the fairest and lowest-cost lawful resolution, including appeals, settlements, and repayment plans.
+MedFair is an AI-powered specification designed to identify, verify, and reduce medical financial obligations by searching insurance, billing, legal, financial assistance, charity care, government, and other available avenues. It then evaluates the remaining obligation to identify the fairest and lowest-cost lawful resolution, including appeals, settlements, and repayment plans.  
 
 - **MediNetAI**  
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
