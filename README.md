@@ -37,9 +37,9 @@ An open source, modular AI-powered weather drone platform designed for autonomou
 [https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)
 An open-source mission control and orchestration platform designed to manage complex systems, workflows, and autonomous operations. 
 
-- [**Aurea Module Specification**](https://github.com/openarsenalspecs/IoT/blob/402f0d5fabcc5490b90968aa80f0787036106174/Aurea.md)    
+- [**Aurea Module Specification**](https://github.com/openarsenalspecs/IoT/blob/9156c3e0f3e2f828ebbfba00eebf09ded469662b/Aurea.md)  
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
-  AI-powered IaC security platform scanning Terraform, Kubernetes, Docker, and Ansible for vulnerabilities and misconfigurations. Licensed under AGPLv3.
+  AI-powered IaC security platform scanning Terraform, Kubernetes, Docker, and Ansible for vulnerabilities and misconfigurations. Licensed under AGPLv3.  
 
 - [**AxonBot Module Specification**](https://github.com/openarsenalspecs/IoT/blob/9a16c7311cf81ffe742eb21c2ea58e5c3cd47370/AxonBot.md)    
   [https://roxanneardary.com/axonbot/](https://roxanneardary.com/axonbot/)  
