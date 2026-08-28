@@ -1,6 +1,8 @@
 # Lexora
-
 **Know Your Code Before You Build.**
+- HTML Mirror:  [https://roxanneardary.com/lexora-specification/](https://roxanneardary.com/lexora-specification/)  
+
+---
 
 Lexora is an open source AI powered repository intelligence platform designed to help developers, analysts, organizations, and contributors understand a codebase before building on top of it, integrating it, modifying it, or adopting it.
 
@@ -23,6 +25,8 @@ Lexora should be designed around the following principles:
 - Extensible functionality through optional plugins
 - Accessibility for developers, analysts, contributors, and nontechnical users
 - Human oversight for recommendations and automated actions
+
+---
 
 ## Core Modules
 
