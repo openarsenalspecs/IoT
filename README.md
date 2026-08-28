@@ -125,9 +125,9 @@ ModelSignature is an open specification for AI model registry and lifecycle mana
   [https://roxanneardary.com/keyframeai/](https://roxanneardary.com/keyframeai/)  
   An open-source, AI-powered design platform with fully editable layers, real-time collaboration, and end-to-end encrypted user content. It enables collaborative creative work.  
 
-- [**Lexora Module Specification**](https://github.com/openarsenalspecs/IoT/blob/596946e64112c6a6174b710c3b76d02d50aa40ab/Lexora.md)    
+- [**Lexora Module Specification**](https://github.com/openarsenalspecs/IoT/blob/a6f91ef41c9f1a82c9d01fa1ec36ccfa61a64fa1/Lexora.md)  
   [https://roxanneardary.com/lexora/](https://roxanneardary.com/lexora/)  
-  An open-source AI-powered repository intelligence platform that helps you understand any codebase before you build. It accelerates development insights.
+  An open-source AI-powered repository intelligence platform that helps you understand any codebase before you build. It accelerates development insights.  
 
 - [**LibreOrbit Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3705dcf18f03e8a1c41314227825da4e93aab934/LibreOrbit.md)  
 [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
