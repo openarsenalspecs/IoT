@@ -263,7 +263,11 @@ A modular, rules-based Rally course design and optimization platform that combin
 
 - [**Sovereign Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c2ca77d54fd6ccd5df108473d59a0adcaf950792/Sovereign.md)  
 [https://roxanneardary.com/sovereign/](https://roxanneardary.com/sovereign/)  
-Sovereign is an AI specification for transforming dependency-based systems into independent, portable, federated alternatives that prioritize human autonomy, ownership, economic participation, and freedom from vendor lock-in. It provides architectures for independent implementation, reproducibility, right-to-leave, corporate exit, anti-capture governance, economic participation, and certification so people can build, operate, govern, and sustain the systems they depend on.  
+Sovereign is an AI specification for transforming dependency-based systems into independent, portable, federated alternatives that prioritize human autonomy, ownership, economic participation, and freedom from vendor lock-in. It provides architectures for independent implementation, reproducibility, right-to-leave, corporate exit, anti-capture governance, economic participation, and certification so people can build, operate, govern, and sustain the systems they depend on.
+
+- **SpecFreedom**  
+[https://roxanneardary.com/specfreedom/](https://roxanneardary.com/specfreedom/)  
+SpecFreedom enables technology independence through universal specification interoperability, allowing proprietary, legacy, and incompatible systems to be adapted, connected, replaced, and reimplemented. It promotes open, cost effective technologies while reducing vendor lock in and preserving compatibility, provenance, portability, and human control.  
 
 - [**SteadyMission Module Specification**](https://github.com/openarsenalspecs/IoT/blob/6100810b644f2fc4b2ab040e910d8832e52a8bc4/SteadyMission.md)    
   [https://roxanneardary.com/steadymission/](https://roxanneardary.com/steadymission/)  
@@ -301,7 +305,15 @@ Taskivo is an open source AI co-pilot that transforms everyday requests into str
   [https://roxanneardary.com/xythera/](https://roxanneardary.com/xythera/)  
   Machine-Assisted Engineering, Fully Open: a modular AI platform for sensor intelligence, open hardware design generation, visualization, and step-by-step build instruction systems with full provenance tracking. It supports open hardware development.
 
-  ---
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/internet-of-things/](https://roxanneardary.com/internet-of-things/)
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
+
+---
 
 ## License & Notice Requirements
 
