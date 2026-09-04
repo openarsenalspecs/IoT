@@ -265,7 +265,7 @@ A modular, rules-based Rally course design and optimization platform that combin
 [https://roxanneardary.com/sovereign/](https://roxanneardary.com/sovereign/)  
 Sovereign is an AI specification for transforming dependency-based systems into independent, portable, federated alternatives that prioritize human autonomy, ownership, economic participation, and freedom from vendor lock-in. It provides architectures for independent implementation, reproducibility, right-to-leave, corporate exit, anti-capture governance, economic participation, and certification so people can build, operate, govern, and sustain the systems they depend on.
 
-- **SpecFreedom**  
+- [**SpecFreedom Module Specification**](https://github.com/openarsenalspecs/IoT/blob/84d083f837b772d091a4525af96e3682ca096811/SpecFreedom.md)    
 [https://roxanneardary.com/specfreedom/](https://roxanneardary.com/specfreedom/)  
 SpecFreedom enables technology independence through universal specification interoperability, allowing proprietary, legacy, and incompatible systems to be adapted, connected, replaced, and reimplemented. It promotes open, cost effective technologies while reducing vendor lock in and preserving compatibility, provenance, portability, and human control.  
 
