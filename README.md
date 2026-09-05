@@ -137,7 +137,7 @@ An open-source, modular satellite networking operating system designed to connec
 [https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
 License Guardian Network is a semantic licensing and provenance system that verifies specification attribution, detects reuse through similarity analysis, and generates structured compliance evidence across distributed repositories. It provides a modular framework for connecting usage, provenance, and compliance in AGPL-3.0+ environments with optional support for Specification Branding License (SBL) workflows.
 
-- **LightQuest**  
+- [**LightQuest Specification**](https://github.com/openarsenalspecs/IoT/blob/5eb3893fbf46629f9411da589afd9650c45a7fc9/LightQuest.md)    
 [https://roxanneardary.com/lightquest/](https://roxanneardary.com/lightquest/)  
 LightQuest is a real-world adventure game where players explore beneath the surface, battle Shadow figures, discover rare loot, and embark on cooperative quests. With persistent worlds, unique digital assets, federated communities, and a player-driven economy, LightQuest connects real-world exploration with an evolving adventure experience.  
 
